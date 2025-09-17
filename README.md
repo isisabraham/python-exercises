@@ -6,7 +6,7 @@ The goal is to practice programming logic, data structures, and algorithms while
 ---
 
 ## 📂 Repository Structure
-
+```
 python-exercises/
 │
 ├── 00_pdf/ # Exercise lists and supporting material
@@ -27,7 +27,7 @@ python-exercises/
 │ ...
 │
 └── README.md # Project documentation
-
+```
 
 ---
 
