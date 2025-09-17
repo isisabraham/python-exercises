@@ -1,10 +1,5 @@
 # 🐍 python-exercises
-
-This repository contains solutions to a series of Python exercises, organized by topic and difficulty.  
-The goal is to practice programming logic, data structures, and algorithms while building a portfolio.
-
 ---
-
 ## 📂 Repository Structure
 ```
 python-exercises/
@@ -28,16 +23,3 @@ python-exercises/
 │
 └── README.md # Project documentation
 ```
-
----
-
-## 🛠️ Technologies Used
-- Python 3
-- Git & GitHub
-
-## 🎯 Objectives
-- Practice basic programming logic
-- Build a public portfolio
-- Improve Python & problem-solving skills
-
-✨ Author: [Isis Abraham](https://github.com/isisabraham)
